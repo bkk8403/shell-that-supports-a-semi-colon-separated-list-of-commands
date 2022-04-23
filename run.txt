@@ -1,0 +1,1 @@
+gcc main.c display.c read_command.c interpret_command.c built_in_command.c ls_command.c fgbgprocess.c -g
